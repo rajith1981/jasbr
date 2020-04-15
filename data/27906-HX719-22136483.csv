@@ -1,0 +1,4 @@
+Object,Integral [abs],Integral [rel],Peaks,Range (F1) from,Range (F1) to,?(F1) [ppm],Concentration (Eretic),Atoms (Eretic),Intensity [abs],
+Integral 1,350776347.41,44899372469.0000,9,7.400,6.400,6.9000,,,,
+Integral 2,697408892.66,89268338260.0000,5,5.700,5.089,5.3943,,,,
+Integral 3,253489357.76,32446637793.0000,5,5.059,4.600,4.8293,,,,
